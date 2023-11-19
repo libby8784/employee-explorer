@@ -1,0 +1,18 @@
+<!-- TODO: get maxLength from settings - server-->
+<div>
+    <input #searchInput type="text" placeholder="Search..." maxlength="100" (input)="this.autoSearch(searchInput.value)"
+        (focus)="this.focusOnSearchInput = true" (focusout)="this.focusOnSearchInput = false" />
+    <button (click)="this.search()">searchIcon</button>
+    <ul (mouseenter)="this.focusOnSuggesions= true" (mouseleave)="this.focusOnSuggesions= false"
+        (scroll)="this.loadItemsOnScroll($event.target)" *ngIf="this.showSuggestions()" class="dropdown">
+        <li *ngIf="this.hasMessage" class="autocomplete-message">{{this.message}}</li>
+        <li (click)="this.selectItem(item)" [highlight]="this.searchTerm" *ngFor="let item of this.items">
+            <ng-container
+                *ngTemplateOutlet="this.autoSearchItemTemplate ? this.autoSearchItemTemplate : defaultItemTemplate; context:{item}">
+            </ng-container>
+        </li>
+    </ul> 
+    <ng-template #defaultItemTemplate let-item="item">
+        <a>{{item | json}}</a>
+    </ng-template>
+</div>

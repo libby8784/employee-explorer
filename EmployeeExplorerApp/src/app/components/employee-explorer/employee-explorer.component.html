@@ -1,0 +1,20 @@
+<h1>LOOKING FOR AN EMPLOYEE?</h1>
+<span>Click on the search bar to learn our suggestions</span>
+<app-autocomplete [searchFunction]="this.searchEmployees" [autoSearchItemTemplate]="employeeAutoSearchItemTemplate"
+    (searchEvent)="this.showEmployees($event)" (selectItemEvent)="this.showEmployee($event)"></app-autocomplete>
+<div *ngIf="this.hasMessage">{{this.message}}</div>
+<ul class="employeesList" (scroll)="this.loadEmployeesOnScroll($event.target)">
+    <!--TODO: move it to seperate component-->
+    <li *ngFor="let employee of this.employees">
+        <ng-container>
+            <div>{{employee.firstName + employee.lastName}}</div>
+            <div>{{employee.workTitle}}</div>
+            <img src="{{employee.imageUrl}}" />
+        </ng-container>
+    </li>
+    <ng-template #employeeAutoSearchItemTemplate let-item="item">
+        <div>{{item.firstName + item.lastName}}</div>
+        <div>{{item.workTitle}}</div>
+        <img src="{{item.imageUrl}}" />
+    </ng-template>
+</ul>
