@@ -1,0 +1,15 @@
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\bin\Debug\net6.0\DLL.deps.json
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\bin\Debug\net6.0\DLL.dll
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\bin\Debug\net6.0\DLL.pdb
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\bin\Debug\net6.0\Entities.dll
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\bin\Debug\net6.0\Entities.pdb
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.csproj.CopyComplete
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.dll
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\refint\DLL.dll
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\DLL.pdb
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\net6.0\ref\DLL.dll

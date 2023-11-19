@@ -1,0 +1,5 @@
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.AssemblyReference.cache
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\netcoreapp3.1\DLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+F:\programming\פרוייקט DELOITE ;) GOOD LUCK\EmployeeExplorer\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
